@@ -13,6 +13,9 @@
       "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "jp.memoapp",
@@ -24,7 +27,7 @@
       "permissions": [],
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon_adaptive_foreground.png",
-        "backgroundImage": "./asset/icon_adaptive_background.png"
+        "backgroundImage": "./assets/icon_adaptive_background.png"
       }
     },
     "web": {
