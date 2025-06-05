@@ -7,3 +7,9 @@ MemoApp.mdに学習内容記載
 <img src=https://github.com/user-attachments/assets/6bc16a91-0dbd-4993-8ea4-9fa6ae62c685 width="30%">
 <img src=https://github.com/user-attachments/assets/180a5710-e468-4fcd-a49b-50c771618e21 width="30%">
 <img src=https://github.com/user-attachments/assets/aa3c9bfa-8f11-4359-b65e-6e72c3b79a7f width="30%">
+
+
+
+
+[デモ動画](https://github.com/user-attachments/assets/590c5003-0cb9-432d-9b98-83ebc32c2d15)
+
