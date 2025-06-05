@@ -119,6 +119,7 @@ const styles = StyleSheet.create({
   inputContainer: {
     paddingHorizontal: 27,
     paddingVertical: 16,
+    paddingBottom: 70,
     flexGrow: 1
   },
   input: {
